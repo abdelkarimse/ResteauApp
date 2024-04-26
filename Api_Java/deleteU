@@ -1,0 +1,22 @@
+<?php
+// Include init.php for database connection setup
+include 'init.php';
+
+// Retrieve POST data
+$id = $_POST['id'];
+
+// Prepare delete statement
+$sql = "DELETE FROM users WHERE id = ?";
+$stmt = $conn->prepare($sql);
+$stmt->bind_param("i", $id);
+
+// Execute delete statement
+if ($stmt->execute()) {
+    echo "success";
+} else {
+    echo "error";
+}
+
+$stmt->close();
+$conn->close();
+?>
