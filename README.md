@@ -26,14 +26,14 @@ Features
 ![Suing Dashboard](CapSuing/m7.jpg)
 ### Album 3:  Client 
 this Android Application in this Link copy it :https://github.com/abdelkarimse/AbdroidResteau
-![Suing Menu Management](CapApp/m1.jpg)
-![Suing Menu Management](CapApp/m2.jpg)
-![Suing Menu Management](CapApp/m3.jpg)
-![Suing Menu Management](CapApp/m4.jpg)
-![Suing Menu Management](CapApp/m5.jpg)
-![Suing Menu Management](CapApp/m6.jpg)
-![Suing Menu Management](CapApp/m7.jpg)
-![Suing Menu Management](CapApp/m8.jpg)
+![Suing Menu Management](CapApp/1.jpg)
+![Suing Menu Management](CapApp/2.jpg)
+![Suing Menu Management](CapApp/3.jpg)
+![Suing Menu Management](CapApp/4.jpg)
+![Suing Menu Management](CapApp/5.jpg)
+![Suing Menu Management](CapApp/6.jpg)
+![Suing Menu Management](CapApp/7.jpg)
+![Suing Menu Management](CapApp/8.jpg)
 *Menu management interface in the Suing app.*
 
 ### Album 2: Order Tracking and Reservation Management
