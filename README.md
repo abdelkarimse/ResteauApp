@@ -88,7 +88,7 @@ Contributors
 
 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License Free.
 Support
 
 For any inquiries or support requests, please contact us at selmi.abdelkarim2@gmail.com
