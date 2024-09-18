@@ -78,13 +78,7 @@ Android App
     Open the Android project in Android Studio.
     Build and run the project on an Android emulator or physical device.
 
-API Documentation
 
-Detailed documentation for the PHP API endpoints can be found here.
-Contributors
-
-    John Doe (@johndoe)
-    Jane Smith (@janesmith)
 
 License
 
